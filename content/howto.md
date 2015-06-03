@@ -1,7 +1,7 @@
 Gogh
 ====
 
-![elementary](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/Gogh-icons.png)
+![elementary](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/Gogh-icons.png)
 
 ## How To
 
@@ -15,7 +15,7 @@ Please feel free to use and create your own color schemes.
 
 - **The Script**
 
-https://github.com/Mayccoll/Elementary-OS-Terminal-Colors/blob/master/base.sh
+https://github.com/devinceble/Elementary-OS-Terminal-Colors/blob/master/base.sh
 
 - **Variables**
 
@@ -66,7 +66,7 @@ In comments variables is that of the console belongs each color.
 
 Here is a picture that explains a little better as colors are distributed.
 
-![Colors](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/colors.png)
+![Colors](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/colors.png)
 
 - **View Colors**
 

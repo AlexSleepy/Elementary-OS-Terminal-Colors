@@ -1,7 +1,7 @@
 Gogh
 ====
 
-![elementary](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/Gogh-icons.png)
+![elementary](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/Gogh-icons.png)
 
 ## Install:
 
@@ -15,7 +15,7 @@ This way of installing is equals the below, the only thing is that a shortening 
 - **or** Download and save the script file, make this file executable and run it:
 
 ```bash
-    $ wget https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/elementary.sh
+    $ wget https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/elementary.sh
     $ chmod +x elementary.sh
     $ ./elementary.sh
 ```

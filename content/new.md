@@ -1,7 +1,7 @@
 Gogh
 ====
 
-![elementary](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/Gogh-icons.png)
+![elementary](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/Gogh-icons.png)
 
 ## What's  New
 
@@ -12,7 +12,7 @@ Gogh
   $ wget -O xt  http://git.io/vTBJC && chmod +x xt && ./xt && rm xt
 ```
 
-![new](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/dracula.png)
+![new](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/dracula.png)
 
 ## Freya
 
@@ -22,7 +22,7 @@ Gogh
   $ wget -O xt  http://git.io/vvmPj && chmod +x xt && ./xt && rm xt
 ```
 
-![new](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/new.png)
+![new](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/new.png)
 
 
 
@@ -32,7 +32,7 @@ Gogh
   $ wget -O xt  http://git.io/vvppo && chmod +x xt && ./xt && rm xt
 ```
 
-![Flat](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/flat.png)
+![Flat](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/flat.png)
 
 
 
@@ -42,7 +42,7 @@ Gogh
   $ wget -O xt  http://git.io/PWgNtA && chmod +x xt && ./xt && rm xt
 ```
 
-![hydrid](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/Hybrid.png)
+![hydrid](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/Hybrid.png)
 
 
 
@@ -52,7 +52,7 @@ Gogh
   $ wget -O xt  http://git.io/vvjFK && chmod +x xt && ./xt && rm xt
 ```
 
-![Monokai](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/monokai.dark.png)
+![Monokai](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/monokai.dark.png)
 
 
 
@@ -62,7 +62,7 @@ Gogh
   $ wget -O xt  http://git.io/vvjFH && chmod +x xt && ./xt && rm xt
 ```
 
-![Solarized](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/solarized.dark.png)
+![Solarized](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/solarized.dark.png)
 
 
 
@@ -72,4 +72,4 @@ Gogh
   $ wget -O xt  http://git.io/vvjFb && chmod +x xt && ./xt && rm xt
 ```
 
-![Solarized](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/solarized.light.png)
+![Solarized](https://raw.githubusercontent.com/devinceble/Elementary-OS-Terminal-Colors/master/images/solarized.light.png)
