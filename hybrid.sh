@@ -63,8 +63,7 @@ COLOR_06=$(gnome_color $COLOR_06)
 # | Apply Variables
 # | ===========================================
 
-gconftool-2 --set /apps/gnome-terminal/profiles/Default/use_theme_background --type bool false
-gconftool-2 --set /apps/gnome-terminal/profiles/Default/use_theme_colors --type bool false
-gconftool-2 -s -t string /apps/gnome-terminal/profiles/Default/background_color "${BACKGROUD_COLOR}"
-gconftool-2 -s -t string /apps/gnome-terminal/profiles/Default/foreground_color "${FOREGROUND_COLOR}"
-gconftool-2 -s -t string /apps/gnome-terminal/profiles/Default/palette "${COLOR_01}:${COLOR_02}:${COLOR_03}:${COLOR_04}:${COLOR_05}:${COLOR_06}:${COLOR_07}:${COLOR_08}:${COLOR_09}:${COLOR_10}:${COLOR_11}:${COLOR_12}:${COLOR_13}:${COLOR_14}:${COLOR_15}:${COLOR_16}"
+gsettings set org.pantheon.terminal.settings background "${BACKGROUD_COLOR}"
+gsettings set org.pantheon.terminal.settings foreground "${FOREGROUND_COLOR}"
+gsettings set org.pantheon.terminal.settings cursor-color "${FOREGROUND_COLOR}"
+gsettings set org.pantheon.terminal.settings palette "${COLOR_01}:${COLOR_02}:${COLOR_03}:${COLOR_04}:${COLOR_05}:${COLOR_06}:${COLOR_07}:${COLOR_08}:${COLOR_09}:${COLOR_10}:${COLOR_11}:${COLOR_12}:${COLOR_13}:${COLOR_14}:${COLOR_15}:${COLOR_16}"

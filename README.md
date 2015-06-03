@@ -1,9 +1,9 @@
-Gogh
-====
+Gogh - Forked for Pantheon Terminal
+==================================
 
 ![elementary](https://raw.githubusercontent.com/Mayccoll/Elementary-OS-Terminal-Colors/master/images/Gogh-icons.png)
 
-## Color Scheme for Gnome Terminal
+## Color Scheme for Pantheon Terminal
 
 Color Schemes For Ubuntu, Linux Mint and all distributions that use gnome terminal, initially inspired by Elementary OS.
 
@@ -46,6 +46,10 @@ If you want to create your own color scheme or contribute to the project. [Here.
 ## Author
 
 - Miguel D. Quintero - [Lanet.co](http:lanet.co)
+
+## Forked By
+
+- Leivince John D. Marte - [devinceble.github.io](http://devinceble.github.io/)
 
 ## Mentions
 
